@@ -3,6 +3,8 @@ data-cleaning
 
 Exploration of Python cleaning techniques
 
+See https://github.com/PacktPublishing/Python-Data-Cleaning-Cookbook for data.
+
 Project Organization
 ------------
 
